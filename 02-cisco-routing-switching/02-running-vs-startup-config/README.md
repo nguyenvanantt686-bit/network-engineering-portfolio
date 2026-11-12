@@ -131,6 +131,6 @@ _Add actual lab screenshots to the screenshots folder._
 
 ---
 
-**Author:** Hoan Van  
+**Author:** Nguyen Van An
 **Role:** Aspiring Network Engineer  
 **Portfolio:** Network Engineering Portfolio
